@@ -1,0 +1,377 @@
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.AssemblyReference.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Properties.Resources.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.GenerateResource.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.exe.licenses
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.CoreCompileInputs.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.CopyComplete
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.exe
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.MainForm.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmTest.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmDanToc.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTonGiao.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmTrinhDo.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmPhongBan.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmCongTy.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmBoPhan.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmChucVu.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptDanhSachNhanVien.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmHopDongLaoDong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptHopDongLaoDong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmKhenThuong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien_DieuChuyen.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien_ThoiViec.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\QLNHANSU.exe.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\QLNHANSU.exe
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\QLNHANSU.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\BusinessLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DataLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\BusinessLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\BusinessLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DataLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DataLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.AssemblyReference.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmBoPhan.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmChucVu.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmCongTy.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmDanToc.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmHopDongLaoDong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmKhenThuong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien_DieuChuyen.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien_ThoiViec.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmPhongBan.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmTest.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.frmTonGiao.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmTrinhDo.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.MainForm.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Properties.Resources.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptHopDongLaoDong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptDanhSachNhanVien.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.GenerateResource.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.exe.licenses
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.CoreCompileInputs.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.CopyComplete
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.exe
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmQuanLyLuong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmLoaiCa.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmLoaiCong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmBangCong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmBangCongChiTiet.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmWaiting.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmCapNhatNgayCong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmLogin.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmUser.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptBangCongTongHop.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.FrmBangCongCT.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptBangCongCT.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmPhuCap.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmTangCa.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmUngLuong.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.SpellChecker.v23.2.Core.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraSpellChecker.v23.2.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.SpellChecker.v23.2.Core.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraSpellChecker.v23.2.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmPhanQuyen.resources
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmBangLuong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\QLNHANSU.exe.config
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\QLNHANSU.exe
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\QLNHANSU.pdb
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\BusinessLayer.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DataLayer.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Images.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.SpellChecker.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraSpellChecker.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.SqlServer.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Xpo.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.CodeParser.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\BusinessLayer.pdb
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\BusinessLayer.dll.config
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DataLayer.pdb
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DataLayer.dll.config
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Data.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.SpellChecker.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraSpellChecker.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\EntityFramework.SqlServer.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Xpo.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.AssemblyReference.cache
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmBangCong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmBangCongChiTiet.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmCapNhatNgayCong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmLoaiCa.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.CHAMCONG.FrmLoaiCong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmBoPhan.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmChucVu.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmCongTy.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmDanToc.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmHopDongLaoDong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmKhenThuong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmLogin.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien_DieuChuyen.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmNhanVien_ThoiViec.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmPhanQuyen.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmPhongBan.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmQuanLyLuong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmTest.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.frmTonGiao.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmTrinhDo.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmUser.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.FrmWaiting.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.MainForm.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Properties.Resources.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.FrmBangCongCT.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptBangCongCT.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptBangCongTongHop.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptHopDongLaoDong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptDanhSachNhanVien.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmBangLuong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmPhuCap.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmTangCa.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.TINHLUONG.FrmUngLuong.resources
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.GenerateResource.cache
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.exe.licenses
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.CoreCompileInputs.cache
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.csproj.CopyComplete
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.exe
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\obj\Debug\QLNHANSU.pdb
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.Extensions.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\QLNHANSU\bin\Debug\DevExpress.XtraScheduler.v23.2.Extensions.xml

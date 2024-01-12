@@ -1,0 +1,45 @@
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Van Cong Truong Tho\Desktop\CK_C#\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\DataLayer.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\NamHoc4\C#\baiTapLon\thiCKCpp\BusinessLayer\obj\Debug\BusinessLayer.pdb
